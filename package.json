@@ -1,0 +1,13 @@
+{
+  "name": "api-auth-servicio",
+  "version": "1.0.0",
+  "description": "Servicio web para registro e inicio de sesión - Evidencia GA7-220501096-AA5-EV01",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["api", "auth", "login", "registro", "sena"],
+  "author": "Aprendiz SENA",
+  "license": "ISC"
+}

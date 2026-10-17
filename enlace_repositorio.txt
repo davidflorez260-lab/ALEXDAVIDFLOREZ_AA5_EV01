@@ -1,0 +1,22 @@
+============================================================
+ENLACE DEL REPOSITORIO - Evidencia GA7-220501096-AA5-EV01
+============================================================
+
+Repositorio Git:
+
+https://github.com/TU_USUARIO/api-auth-servicio
+
+(Reemplaza TU_USUARIO por tu nombre de usuario de GitHub
+y asegúrate de subir el proyecto al repositorio.)
+
+Instrucciones rápidas para subir a GitHub:
+
+1. Crea un repositorio nuevo en GitHub (sin README).
+2. En la carpeta del proyecto ejecuta:
+
+   git remote add origin https://github.com/TU_USUARIO/api-auth-servicio.git
+   git branch -M main
+   git push -u origin main
+
+3. Copia el enlace del repositorio y pégalo arriba.
+============================================================
