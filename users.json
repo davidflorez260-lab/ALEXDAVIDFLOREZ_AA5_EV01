@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "usuario": "testuser",
+    "contrasena": "pass123",
+    "fechaRegistro": "2026-10-17T03:25:14.772Z"
+  },
+  {
+    "usuario": "alex",
+    "contrasena": "1234",
+    "fechaRegistro": "2026-10-17T03:54:18.882Z"
+  }
+]
